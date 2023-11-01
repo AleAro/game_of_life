@@ -1,7 +1,6 @@
 from mesa.visualization import CanvasGrid, ChartModule, PieChartModule
 from mesa.visualization import ModularServer
 from mesa.visualization import Slider
-
 from model import ForestFire
 
 # The colors of the portrayal will depend on the tree's condition.
